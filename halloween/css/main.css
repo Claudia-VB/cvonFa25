@@ -16,7 +16,7 @@ width: 200px;
 .stem {
  width: 30px;
   height: 40px;
-  background-color: #4CAF50; 
+  background-color:brown; 
   border-radius: 15px 15px 0 0;
   margin: -10px auto 0; 
   position: relative;
@@ -25,4 +25,15 @@ width: 200px;
 
 .l-eye {
 
+}
+
+
+
+
+
+
+.m-body {
+	width:150;
+	height:350;
+}
 }
