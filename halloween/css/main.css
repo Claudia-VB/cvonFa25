@@ -32,7 +32,7 @@ width: 30px;
   position: absolute;
   top: 50px;
   border-radius: 50%;
-  left: 50px;
+  left: 40px;
   transform: translateX(-50%);
 }
 
@@ -45,7 +45,7 @@ width: 30px;
   position: absolute;
   top: 50px;
   border-radius: 50%;
-  Right: 50px;	
+  Right: 40px;	
   transform: translateX(-50%);
 }
 
@@ -96,7 +96,7 @@ hight:20;
 bargound color:ghostwhite;
 position:abosolute;
 transform: translateX(-50%);
-margin: -300px auto 0
+margin: -30px auto 0
 }
 
 
