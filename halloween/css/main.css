@@ -10,7 +10,7 @@ width: 200px;
   border-radius-top-right: 60%; 
   border-radius-bottom-left: 40%;
   border-radius-bottom-right: 40%;  
-  position: absolute; 
+  position: relative; 
   margin: 20px auto;
 }
 .stem {
