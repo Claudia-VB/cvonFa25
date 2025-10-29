@@ -43,9 +43,28 @@ width: 30px;
   Right: 40px;	
 }
 
+.nose {
+ width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 20px solid black; /* Triangular nose */
+  position: absolute;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
-
-
+.mouth {
+ width: 120px;
+  height: 40px;
+  background-color: black;
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 0 0 50% 50% / 0 0 100% 100%;
+}
 
 .m-body {
 	width:100;
