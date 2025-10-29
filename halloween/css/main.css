@@ -14,16 +14,13 @@ width: 200px;
   margin: 20px auto;
 }
 .stem {
-width: 200px;
-  height: 180px;
-  background-color: #ff8c00; 
-  border-radius: 50%;
-  border-radius-top-left:60%;
-  border-radius-top-right:60%;
-  border-radius-bottom-left:40%;
-  border-radius-bottom-right:40%; 
-  position: relative; 
-  margin: 20px auto;
+ width: 30px;
+  height: 40px;
+  background-color: #4CAF50; 
+  border-radius: 15px 15px 0 0;
+  margin: -10px auto 0; 
+  position: relative;
+  z-index: 1;
 }
 
 .l-eye {
