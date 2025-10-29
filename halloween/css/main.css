@@ -78,6 +78,7 @@ width: 30px;
 background-color: black;
 border: 4px darkgray;
 position: absolute;
+margin: -400px auto 0;
 }
 
 .legs {
@@ -86,6 +87,7 @@ position: absolute;
 	background-color:darkslategray;
 	border:black;
 	position: absolute;
+	margin: -600px auto 0
 }
 
 .wp {
@@ -94,6 +96,7 @@ hight:20;
 bargound color:ghostwhite;
 position:abosolute;
 transform: translateX(-50%);
+margin: -300px auto 0
 }
 
 
