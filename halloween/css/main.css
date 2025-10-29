@@ -18,7 +18,7 @@ width: 200px;
   height: 40px;
   background-color: #4CAF50;
   border-radius: 15px 15px 0 0;
-  margin: -10px auto 0;
+  margin: -20px auto 0;
   position: relative;
   z-index: 1;
 }
@@ -77,14 +77,14 @@ width: 30px;
 	height:150;
 background-color: black;
 border: 4px darkgray;
-position: relative;
+position: absolute;
 }
 
 .legs {
 	width:70;
 	height:250;
 	background-color:darkslategray;
-	position: relative;
+	position: absolute;
 }
 
 
