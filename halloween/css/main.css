@@ -1,1 +1,11 @@
-body{background-color: darkpurple;}
+body{
+	background-color: darkpurple;
+}
+.p-body {
+width:200;
+hight:160;
+background-color: #ff7518 ;
+boarder-top-left-radius:50% / 40% ;
+
+
+}
