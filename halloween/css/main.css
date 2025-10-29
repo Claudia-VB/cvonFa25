@@ -24,9 +24,24 @@ width: 200px;
 }
 
 .l-eye {
-
+width: 30px;
+  height: 40px;
+  background-color: brown;
+  position: absolute;
+  top: 50px;
+  border-radius: 50%;
+  left: 40px;
 }
 
+.r-eye {
+width: 30px;
+  height: 40px;
+  background-color: brown;
+  position: absolute;
+  top: 50px;
+  border-radius: 50%;
+  Right: 40px;	
+}
 
 
 
