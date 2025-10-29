@@ -6,6 +6,9 @@ width:200;
 hight:160;
 background-color:#ff7518;
 position: absolute;
-boarder-radius:50% / 40% ;
+boarder-top-left-radius: 50%;
+boarder-top-right-radius: 50%;
+boarder-bottom-left-radius: 30%;
+boarder-bottom-right-radius: 30%;
 
 }
