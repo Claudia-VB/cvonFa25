@@ -33,6 +33,7 @@ width: 30px;
   top: 50px;
   border-radius: 50%;
   left: 40px;
+  transform: translateX(-50%);
 }
 
 .r-eye {
@@ -45,6 +46,7 @@ width: 30px;
   top: 50px;
   border-radius: 50%;
   Right: 40px;	
+  transform: translateX(-50%);
 }
 
 .nose {
