@@ -52,7 +52,7 @@ width: 30px;
   height: 0;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
-  border-top: 20px solid black; 
+  border-top: 20px solid brown; 
   position: absolute;
   top: 90px;
   left: 50%;
@@ -62,7 +62,7 @@ width: 30px;
 .mouth {
  width: 120px;
   height: 40px;
-  background-color: black;
+  background-color: brown;
   position: absolute;
   bottom: 30px;
   left: 50%;
@@ -75,11 +75,14 @@ width: 30px;
 	height:150;
 background-color: black;
 border: 4px darkgray;
+position: relative;
 }
 
 .legs {
 	width:70;
 	height:250;
+	background-color:darkslategray;
+	position: relative;
 }
 
 
