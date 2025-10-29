@@ -12,14 +12,20 @@ width: 200px;
   border-radius-bottom-right: 40%;  
   position: absolute; 
   margin: 20px auto;
-
 }
 .stem {
-
-	width: 200px;
+width: 200px;
   height: 180px;
   background-color: #ff8c00; 
-  border-radius: 50% / 60% 60% 40% 40%; 
+  border-radius: 50%;
+  border-radius-top-left:60%;
+  border-radius-top-right:60%;
+  border-radius-bottom-left:40%;
+  border-radius-bottom-right:40%; 
   position: relative; 
   margin: 20px auto;
+}
+
+.l-eye {
+
 }
