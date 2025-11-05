@@ -18,7 +18,7 @@ width: 200px;
   height: 40px;
   background-color: #4CAF50;
   border-radius: 15px 15px 0 0;
-  margin: 60px auto 0;
+  margin: 90px auto 0;
   position: relative;
   z-index: 1;
 }
@@ -30,7 +30,7 @@ width: 30px;
   position: absolute;
   top: 50px;
   border-radius: 50%;
-  left: 60px;
+  left: 65px;
   transform: translateX(-50%);
 }
 
