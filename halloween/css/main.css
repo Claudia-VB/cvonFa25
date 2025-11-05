@@ -73,7 +73,7 @@ width: 30px;
 	height:150;
 background-color: black;
 border: 4px darkgray;
-position: absolute;
+position: relative;
 
 }
 
@@ -82,7 +82,7 @@ position: absolute;
 	height:250;
 	background-color:darkslategray;
 	border:black;
-	position: absolute;
+	position: relative;
 	
 }
 
@@ -90,7 +90,7 @@ position: absolute;
 width:15;
 hight:20;
 bargound color:ghostwhite;
-position:abosolute;
+position:relative;
 transform: translateX(-50%);
 
 }
