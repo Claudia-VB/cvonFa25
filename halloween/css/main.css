@@ -1,6 +1,13 @@
-body{
-	background-color:rebeccapurple;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rebeccapurple;
+    margin: 0;
 }
+
+
 .p-body {
 width: 200px;
   height: 180px;
@@ -93,5 +100,55 @@ bargound color:ghostwhite;
 position:relative;
 transform: translateX(-50%);
 
-
 }
+
+
+
+.tuxedo-man {
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+    border-radius: 10px;
+   
+}
+
+.tuxedo-man::before {
+    content: '';
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 140px;
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+}
+
+
+.tuxedo-man::after {
+    content: '';
+    position: absolute;
+    top: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30px;
+    height: 15px;
+    background-color: black;
+    clip-path: polygon(0% 0%, 30% 50%, 0% 100%, 100% 100%, 70% 50%, 100% 0%);
+}
+
+
+.tuxedo-man div {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.button1 { top: 70px; }
+.button2 { top: 90px; }
+.button3 { top: 110px; }
